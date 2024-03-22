@@ -23,7 +23,7 @@ public class stringsample {
 		
 		System.out.println(str.replace('H', 'K'));// TO REPLACE
 		
-		System.out.println(str.substring(0, 4)); //to trim
+		System.out.println(str.substring(2, 5)); //to trim
 		
 		System.out.println(str.toLowerCase());//to change every letter into lower case
 		
